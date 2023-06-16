@@ -1,4 +1,4 @@
-# ![icon-user](https://puppy-coin.com/wp-content/uploads/2021/12/puppy-coin-logo.png) About Me:
+# ![icon-user](https://camo.githubusercontent.com/4c0c7a9a7b4a3038bac35eff87fdc03d9d4a479a49466252b394e7e97dc92700/68747470733a2f2f73696d70342e6a70672e6368757263682f6d616e2e706e67) About Me:
 Just a lazy puppy trying to be a developer
 
 # ![icon-user](https://simp4.jpg.church/network.png) Socials:
