@@ -2,8 +2,8 @@
 Just a lazy puppy trying to be a developer
 
 # ![icon-user](https://simp4.jpg.church/network.png) Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huy.hoang.3h) 
-[![Reddit]([https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/38_Jalter)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)(https://www.facebook.com/huy.hoang.3h) 
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)(https://www.reddit.com/user/38_Jalter)
 
 # 💻 Tech Stack:
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
